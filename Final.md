@@ -13,13 +13,13 @@
 1. Ley de Ohm. Explicar y hacer un circuito donde pueda explicar las conexiones serie y paralelo. Como funciona. Graficar la ley de Ohm. ¿Disipa energía una resistencia? ¿Cuanta?
 
 
-2. Campo Magnético. ¿Qué es? Explicar cómo se origina y cómo funciona al ley de inducción magnética entre circuitos o entre un imán y una bobina. Ley de Faraday-Lenz. Proponga un ejemplo y expliquelo. 
+2. Campo Magnético. ¿Qué es? Explicar cómo se origina y cómo funciona la ley de inducción magnética entre circuitos o entre un imán y una bobina. Ley de Faraday-Lenz. Proponga un ejemplo y explíquelo. 
 
 
 3. Desarrolle un tema a elección (se puede también elegir una experiencia de laboratorio).
 
 Tiempo total: 1 hora.
-Se recomienda escribir entre una carilla y media como máximo por cada pregunta. Describa bien los conceptos y haga circuitos, graficos y dibujos claros.
+Se recomienda escribir entre una carilla y media como máximo por cada pregunta. Describa bien los conceptos y haga circuitos, gráficos y dibujos claros.
 
 ## Tema 3
 
@@ -32,7 +32,7 @@ Se recomienda escribir entre una carilla y media como máximo por cada pregunta.
 3. Desarrolle un tema a elección (se puede también elegir una experiencia de laboratorio).
 
 Tiempo total: 1 hora.
-Se recomienda escribir entre una carilla y media como máximo por cada pregunta. Describa bien los conceptos y haga circuitos, graficos y dibujos claros.
+Se recomienda escribir entre una carilla y media como máximo por cada pregunta. Describa bien los conceptos y haga circuitos, gráficos y dibujos claros.
 
 ## Tema 4
 
@@ -45,4 +45,4 @@ Se recomienda escribir entre una carilla y media como máximo por cada pregunta.
 3. Desarrolle un tema a elección (se puede también elegir una experiencia de laboratorio).
 
 Tiempo total: 1 hora.
-Se recomienda escribir entre una carilla y media como máximo por cada pregunta. Describa bien los conceptos y haga circuitos, graficos y dibujos claros.
+Se recomienda escribir entre una carilla y media como máximo por cada pregunta. Describa bien los conceptos y haga circuitos, gráficos y dibujos claros.
